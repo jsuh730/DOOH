@@ -1,0 +1,187 @@
+{
+  "id": "98118f79-635b-47da-a13c-83d3f31edc98",
+  "imp": [
+    {
+      "id": "N1S000073",
+      "banner": {
+        "w": 1080,
+        "h": 1920,
+        "mimes": [
+          "image/jpeg",
+          "image/jpg",
+          "image/png"
+        ],
+        "format": [
+          {
+            "w": 1080,
+            "h": 1920
+          }
+        ],
+        "ext": {
+          "dooh": {
+            "impsPerSpot": 2.217857
+          }
+        }
+      },
+      "video": {
+        "mimes": [
+          "video/mp4",
+          "video/mpeg"
+        ],
+        "minduration": 15,
+        "maxduration": 15,
+        "w": 1080,
+        "h": 1920,
+        "protocols": [
+          3,
+          7
+        ],
+        "ext": {
+          "dooh": {
+            "impsPerSpot": 2.217857,
+            "impsPerSecond": 0
+          }
+        }
+      },
+      "tagid": "N1S000073",
+      "bidfloor": 12,
+      "bidfloorcur": "USD",
+      "pmp": {
+        "private_auction": 0,
+        "deals": [
+          {
+            "id": "Wn_iFkpTQT0qooqM9vGuIw",
+            "bidfloor": 12,
+            "at": 1
+          },
+          {
+            "id": "N2FTFQy3QPqAcftrTVI51g",
+            "bidfloor": 12,
+            "at": 1
+          },
+          {
+            "id": "ISH2klDHRPeSDJvmtCGOqw",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "eHx06ZdEQ8i5Gjlyrxuj_A",
+            "bidfloor": 13.5,
+            "at": 2
+          },
+          {
+            "id": "kbUzY5VpSjypYBgqz723aA",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "H695CFoeQ40d6aA__NW1Kg",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "FXOwSa4mQruVCG1V9m978A",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "PGCkXVKJR0u6NNdOCVmifA",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "RBPbUej2S_y_MNfdrYXw1g",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "0VpEt8ljQyadbDCtqlGBWQ",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "dmoaiLRATFuhDfEKlAgoNw",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "9vA9fU2vRhaa0Bx6HQZ2yg",
+            "bidfloor": 12,
+            "at": 2
+          },
+          {
+            "id": "-clpBtdWSXKvgJJxIjS7Gg",
+            "bidfloor": 12,
+            "at": 2
+          },
+          {
+            "id": "QHYhqYmZQOi_PRS9dzteXA",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "LGvkMweVT4O9OpTUTffKLA",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "jak6Kfn1QpCU1BVX4e6_Jg",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "U6eWtlf_QDGNaV2GFlcKbg",
+            "bidfloor": 12.5,
+            "at": 2
+          },
+          {
+            "id": "VistarGlobalDOOHAccess",
+            "bidfloor": 12,
+            "at": 2
+          }
+        ]
+      },
+      "exp": 2460
+    }
+  ],
+  "site": {
+    "domain": "Outfront-Media-US.com",
+    "publisher": {
+      "id": "117f0b0307280927006961210b637023270022394026",
+      "name": "Outfront Media US"
+    }
+  },
+  "device": {
+    "ua": "Vistar Media 1.0",
+    "geo": {
+      "lat": 40.624842,
+      "lon": -73.996353,
+      "country": "USA",
+      "zip": "11219",
+      "type": 1
+    },
+    "ext": {
+      "dooh": {
+        "industryid": "N1S000073",
+        "venuetypeids": [
+          1,
+          105
+        ],
+        "publicid": "FQKlp:N1S000073"
+      }
+    }
+  },
+  "at": 2,
+  "tmax": 500,
+  "cur": [
+    "USD"
+  ],
+  "bcat": [
+    "IAB11-4",
+    "IAB8-18",
+    "IAB8-5"
+  ],
+  "wlang": [
+    "en"
+  ]
+}
