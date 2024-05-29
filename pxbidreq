@@ -1,0 +1,139 @@
+{
+  "id": "d6aeab65-d9fb-4d1e-bcf1-c232110abcef",
+  "imp": [
+    {
+      "id": "1",
+      "video": {
+        "mimes": [
+          "video/mp4"
+        ],
+        "minduration": 1,
+        "maxduration": 15,
+        "w": 1920,
+        "h": 1080,
+        "protocols": [
+          2,
+          3,
+          5,
+          6
+        ]
+      },
+      "tagid": "1e978824-46e0-4b1a-b7ac-6b5bc48c18b6",
+      "pmp": {
+        "private_auction": 0,
+        "deals": [
+          {
+            "id": "px_aod_political_partisan_allowed",
+            "bidfloor": 9,
+            "bidfloorcur": "USD",
+            "at": 1,
+            "ext": {
+              "placeexchange": {
+                "buyer_adserving_fee": 0,
+                "guaranteed": false
+              }
+            }
+          },
+          {
+            "id": "px_aod_political_nonpartisan_allowed",
+            "bidfloor": 9,
+            "bidfloorcur": "USD",
+            "at": 1,
+            "ext": {
+              "placeexchange": {
+                "buyer_adserving_fee": 0,
+                "guaranteed": false
+              }
+            }
+          },
+          {
+            "id": "px_aod_gambling_allowed",
+            "bidfloor": 8.1,
+            "bidfloorcur": "USD",
+            "at": 1,
+            "ext": {
+              "placeexchange": {
+                "buyer_adserving_fee": 0,
+                "guaranteed": false
+              }
+            }
+          }
+        ]
+      },
+      "secure": 1,
+      "ext": {
+        "placeexchange": {
+          "sampling_rate": 1,
+          "imp_x": 1
+        },
+        "intersection": {
+          "imp_x": 1
+        },
+        "adunit_name": "Captivate_LO-0004531"
+      }
+    }
+  ],
+  "app": {
+    "domain": "https://www.captivate.com/",
+    "bundle": "com.captivate.luxerone",
+    "publisher": {
+      "id": "d50ae690-be02-452e-b705-d729469bde4a",
+      "name": "Captivate",
+      "domain": "www.captivate.com"
+    }
+  },
+  "device": {
+    "ua": "",
+    "ip": "38.108.133.13",
+    "geo": {
+      "lat": 41.5991,
+      "lon": -93.8313,
+      "country": "USA",
+      "region": "IA",
+      "city": "WEST DES MOINES",
+      "zip": "50266",
+      "type": 1,
+      "utcoffset": -300
+    },
+    "devicetype": 1,
+    "ifa": "2aa7951c-dfa5-4a7d-81e0-9ce65a43f6ad",
+    "lmt": 0,
+    "ext": {
+      "dooh": {
+        "venuetypeid": "1101"
+      }
+    }
+  },
+  "user": {
+    "id": "2aa7951c-dfa5-4a7d-81e0-9ce65a43f6ad",
+    "data": [
+      {
+        "id": "openooh",
+        "name": "venue",
+        "segment": [
+          {
+            "id": "1101",
+            "name": "residential.apartment_buildings"
+          }
+        ]
+      }
+    ]
+  },
+  "at": 1,
+  "cur": [
+    "USD"
+  ],
+  "bcat": [
+    "IAB8-5",
+    "IAB21-2",
+    "IAB21-1",
+    "IAB8-18",
+    "IAB21",
+    "IAB17-18",
+    "IAB9-9",
+    "IAB11-4",
+    "IAB21-3",
+    "IAB13-10",
+    "IAB14-5"
+  ]
+}
